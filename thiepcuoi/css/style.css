@@ -1190,3 +1190,8 @@ padding: 130px 20px 20px;
 .d-none{
   display: none;
 }
+@media screen and (max-device-width: 768px) and (orientation: portrait){
+  video {
+    display:none
+    }
+}
