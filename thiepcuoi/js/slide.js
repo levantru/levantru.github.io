@@ -33,7 +33,7 @@ $('.slider-images').slick({
 $( window ).on( "load", function() { 
     setTimeout(function(){ 
         $(".loading").addClass("hide");
-    }, 3000);
+    }, 2000);
     $('body').one('click',function(){
         enableAutoplay();
     });
