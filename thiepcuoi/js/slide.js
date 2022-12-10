@@ -36,6 +36,7 @@ $( window ).on( "load", function() {
     }, 2000);
     $('body').one('click',function(){
         enableAutoplay();
+        $('.close').click();
     });
 });
     var vid = document.getElementById("myVideo");
