@@ -30,22 +30,21 @@ $('.slider-images').slick({
     }
     ]
 });
-   // var vid = document.getElementById("myVideo");
-   // function enableAutoplay() { 
-     //   vid.autoplay = true;
-     //   vid.load();
+  //  var vid = document.getElementById("myVideo");
+    //function enableAutoplay() { 
+       // vid.autoplay = true;
+      //  vid.load();
   // }
 $( window ).on( "load", function() { 
     setTimeout(function(){ 
         $(".loading").addClass("hide");
     }, 2000);
    // if ($(window).width() >767) {
-       // $('body').one('click',function(){
-         //   enableAutoplay();
+     //   $('body').one('click',function(){
+       //     enableAutoplay();
       //  });
-    // }
-    // else {
-       // vid.autoplay = true;
+   //  }
+   //  else {
+      //  vid.autoplay = true;
     // }
 });
-
