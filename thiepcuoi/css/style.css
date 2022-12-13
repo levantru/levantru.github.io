@@ -968,9 +968,9 @@ padding: 130px 20px 120px;
   background-size: cover !important;
 }
 .content-frontend .title img {
-  width: 100%;
-  opacity: 0.4;
-  padding: 70px 0px;
+     width: 70%;
+    opacity: 0.2;
+    padding: 200px 0px 0;
 }
 .content-frontend .head-info {
   margin-bottom: 20px;
