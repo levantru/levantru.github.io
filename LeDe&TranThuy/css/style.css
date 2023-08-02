@@ -1072,6 +1072,8 @@ padding: 30px 20px 40px;
 }
 .actions {
   margin-top: 20px;
+	  position: relative;
+  z-index: 100;
 }
 .actions.v1{
   position: relative;
